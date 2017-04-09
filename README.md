@@ -161,8 +161,32 @@
 [5]: http://www.cs.cmu.edu/afs/cs/project/able/ftp/intro_softarch/intro_softarch.pdf
 [6]: https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf
 
+- [Introducción a SCM](https://docs.google.com/document/d/1FJMcQQqJiY9RK52HRhmB4Oh61t8i7ca1q8sEpLDGsLs/edit)
+
 ## Validación del diseño
 
 - [Testing](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit)
 
 - [Cualidades de las pruebas automatizadas](https://docs.google.com/document/d/1KfLJMr2cEvyP7SEi9MJ-arE23EFwcOm4wH8aEnJotxM/edit)
+
+## Diseño de interfaz de usuario
+
+- [Diseño de UI basado en componentes - MVC](https://sites.google.com/site/programacionui/temario/02-disenio-UI)
+
+- [Introducción a arquitectura web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.jii8bn1f6qx1)
+
+- [Introducción a tecnologías web](https://sites.google.com/site/programacionui/temario/03-intro-web)
+
+- [Usabilidad en diseño de interfaces](http://worrydream.com/MagicInk/)
+
+- **Talleres prácticos de tecnologías de UI**:
+
+  - [Arena](https://docs.google.com/document/d/17EvP3IGEbdzhC-da-V2iV3OB6yU4qYXbMNbycu3maPo/edit)
+  
+  - [Maquetado web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#)
+  
+## Bonus
+
+- Paper: [Técnicas funcionales aplicadas a objetos](http://homepages.mcs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf)
+
+- [Pensamiento orientado al diseño (design thinking)](https://medium.com/espanol/pens%C3%A1-en-resolver-problemas-93f3987ab71)
