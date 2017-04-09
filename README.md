@@ -1,4 +1,4 @@
-# links-utiles
+# Links útiles
 
 ## Diseño y sistemas
 
@@ -143,3 +143,26 @@
     - [Comparación MySQL y MongoDB - Ejercicio subtítulos de series y películas](https://docs.google.com/document/d/1A9s8Wtw3wfn6D-G2ZtDkzZun2eAySeX0BH1KtgGGN4g/edit#heading=h.mfc5ay7la1va)
 
 [4]: https://docs.google.com/document/d/1nCy-Xk00lBUrBFQvTWk9P5xsw8ee6JOVklSUlRN3mUI/edit
+
+## Introducción al diseño de arquitectura
+
+- [Diseño entre interfaces de componentes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit)
+
+- [Patrones de comunicación entre componentes](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
+
+- [Conceptos de arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit)
+
+  - [Introducción a arquitectura de software][5],  paper de David Garlan & Mary Shaw
+  
+  - [Who needs an architect?][6], paper de Martin Fowler sobre el rol de un arquitecto y su relación con el diseño
+  
+  - [Decisiones de diseño para construir aplicaciones](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MTg3YzhjNmEwMjZmOTZiMw)
+  
+[5]: http://www.cs.cmu.edu/afs/cs/project/able/ftp/intro_softarch/intro_softarch.pdf
+[6]: https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf
+
+## Validación del diseño
+
+- [Testing](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit)
+
+- [Cualidades de las pruebas automatizadas](https://docs.google.com/document/d/1KfLJMr2cEvyP7SEi9MJ-arE23EFwcOm4wH8aEnJotxM/edit)
