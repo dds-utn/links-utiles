@@ -48,7 +48,7 @@
 
 - **Guías para comunicar requerimientos:**
 
-  - [Diagrama y especificación de casos de uso](https://docs.google.com/document/d/12DQ1ewTcr83WNEAOtckcoMPPdrmKb0gTqetR2EaxWF4/edit)
+  - [Diagrama y especificación de casos de uso](https://docs.google.com/document/d/12DQ1ewTcr83WNEAOtckcoMPPdrmKb0gTqetR2EaxWF4/edit)
 
   - [Diagrama de actividades](https://docs.google.com/document/d/15nrpIfwwE_8lZOnsBpmM8j3CEIV2p3_EYNlfr8gmcGA/edit)
   
@@ -83,3 +83,35 @@
 - [Guía de lenguajes - Colecciones](https://docs.google.com/document/d/1-jsgDta3fBCuTynnOMXqeuLcSkDU3geg4wbz8o9q8Kg/edit)
 
 - [Apunte de Maven](https://sites.google.com/site/programacionui/temario/01-intro-UI/maven)
+
+## Design patterns y buenas prácticas
+
+- [Introducción a los design patterns](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
+
+- **Intercepción de código (decorator)**:[Ejercicio clientes de una tarjeta de crédito](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MzBhOWYzZjIxNTRiMThmYg)
+
+- **Modelar comportamiento (command)**:
+
+  - [Ejercicio firewall](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MTJlMmFkODNmOTdiNWZmNA)
+  
+  - [Ejercicio microprocesador (Xtend)](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit)
+  
+- **Notificaciones a interesados (observer)**:
+
+  - [Lista de correo](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
+  
+  - [Sobre los efectos en el patrón observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
+  
+- **Patrones creacionales**:
+
+  - [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#heading=h.6ya5si9ipi77)
+  
+  - [Patrones creacionales (Java)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4)
+  
+  - [Ejemplos creacionales de clientes de una tarjeta de crédito y firewall](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6NjQxMmVmYWQ0NzUwZTFmOA)
+  
+  - [Ejemplos creacionales de microprocesador](https://docs.google.com/document/d/1ILsxAvgZwPD4sTtB-rBq7wfJZf22e9G6qpllglAbT2g/edit)
+  
+- **Inyección de dependencias**: [Introducción](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
+
+- **Double dispatch**: [Ejercicio selección de personal](https://docs.google.com/document/d/1XWq9azqchoJZ7h8-hLcpA1Zj5T1UtvFtDKbpzxoQ-dw/edit#heading=h.gjdgxs)
