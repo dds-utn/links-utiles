@@ -108,10 +108,38 @@
   
   - [Patrones creacionales (Java)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4)
   
-  - [Ejemplos creacionales de clientes de una tarjeta de crédito y firewall](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6NjQxMmVmYWQ0NzUwZTFmOA)
+  - [Ejemplos creacionales de clientes de una tarjeta de crédito y firewall](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6NjQxMmVmYWQ0NzUwZTFmOA)
   
   - [Ejemplos creacionales de microprocesador](https://docs.google.com/document/d/1ILsxAvgZwPD4sTtB-rBq7wfJZf22e9G6qpllglAbT2g/edit)
   
 - **Inyección de dependencias**: [Introducción](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
 
 - **Double dispatch**: [Ejercicio selección de personal](https://docs.google.com/document/d/1XWq9azqchoJZ7h8-hLcpA1Zj5T1UtvFtDKbpzxoQ-dw/edit#heading=h.gjdgxs)
+
+## Modelado de datos
+
+- **Diseño de datos en el esquema relacional:**
+
+  - [Introdución al modelo relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit)
+  
+  - [Resolución de un ejercicio utilizando componentes en la base de datos](https://docs.google.com/document/d/1zeagKbYb5w1mGCbTDGT1gRgaQS5keLrnAfFAn8v2dtY/edit)
+  
+  - [Normalización](https://docs.google.com/document/d/1Jil-3oiveXDtY1iKBCof7jE9ooRFJ-f1KjcXgaGk6F0/edit)
+  
+- [Persistencia][4] desde el modelo de objetos
+
+  - [Mapeo objetos/relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit)
+  
+    - [Cómo agregar JPA a nuestro proyecto](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#)
+    
+    - [Guía de anotaciones de JPA](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn)
+    
+  - [NoSQL](https://docs.google.com/document/d/1tyuJNCCsMkv4qa7yCHO69lP1cReJ0HZeT2zGfWhqinQ/edit)
+  
+    - [Técnicas para modelar datos con NoSQL](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+    
+    - [Taller Morphia/MongoDB - Préstamos de libros](https://docs.google.com/document/d/1kLAsruPYKZBNB0zi40_ORYavt_daQzEpaz2tf6pB6zw/edit)
+    
+    - [Comparación MySQL y MongoDB - Ejercicio subtítulos de series y películas](https://docs.google.com/document/d/1A9s8Wtw3wfn6D-G2ZtDkzZun2eAySeX0BH1KtgGGN4g/edit#heading=h.mfc5ay7la1va)
+
+[4]: https://docs.google.com/document/d/1nCy-Xk00lBUrBFQvTWk9P5xsw8ee6JOVklSUlRN3mUI/edit
