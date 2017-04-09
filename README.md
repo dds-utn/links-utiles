@@ -6,7 +6,7 @@
 
 - Diseño de sistemas a partir de un ejercicio: [modelar la tarjeta SUBE](https://docs.google.com/document/d/17E9RU0Prlif2_dj7ckAcoviEoonsYaHkl4QoDNZi0f0/edit)
 
-- (!) Paper: [propuesta de definición formal del concepto de diseño, de Paul Ralph & Yair Wand ](https://fdd94259-a-62cb3a1a-s-sites.googlegroups.com/site/utndesign/Ralph-and-Wand-A-Proposal-for-a-Formal-Definition-of-the-Design-Concept.pdf?attachauth=ANoY7cotFBNgjFho0oEepLFD0SwJYlPrL0dOhfxIE8OGqP5bNW2clhhkA4ntpf6NmLQyONvZPhwebFfWhPVTkIts-WwJ16xPISpcK-7kOZjVyha3QeCj0ttL9XMzFpthu4f_3-uJ85sj_LmYsSIlIV7BiprOsJauJUmePK1jpEyMELl1f0zD32j1nhiDLoqYEcQNW1l5Rb5dxV07BlSMLKxyEuUj-0aH8ex0PCO93Xdd--kRrB8rFQGTXMSGwM9_92Qo13HKdkcgxpTUGoRyisRmlTt8Vu15QkzAk8q4qrwx_notYMiJLDM%3D&attredirects=0)
+- Paper: [propuesta de definición formal del concepto de diseño, de Paul Ralph & Yair Wand ](Ralph-and-Wand-A-Proposal-for-a-Formal-Definition-of-the-Design-Concept.pdf)
 
 - [Is design dead?][1]: un paper de Martin Fowler sobre el estado actual del Diseño de Sistemas
 
