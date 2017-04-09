@@ -41,3 +41,45 @@
   - [Post de Kent Beck sobre "Desgin Space"](https://www.facebook.com/notes/kent-beck/design-space/510856375613898)
   
 - [Diseño guiado por el dominio (DDD)](https://docs.google.com/document/d/1z28CBIxGRWkEUCVqxY1Efjt-59fNy1ytZCOEo3Zw8c8/edit)
+
+## Herramientas de concepción y comunicación del diseño
+
+- [Conceptos básicos del diseño](http://wiki.uqbar.org/wiki/articles/conceptos-basicos-del-diseno.html)
+
+- **Guías para comunicar requerimientos:**
+
+  - [Diagrama y especificación de casos de uso](https://docs.google.com/document/d/12DQ1ewTcr83WNEAOtckcoMPPdrmKb0gTqetR2EaxWF4/edit)
+
+  - [Diagrama de actividades](https://docs.google.com/document/d/15nrpIfwwE_8lZOnsBpmM8j3CEIV2p3_EYNlfr8gmcGA/edit)
+  
+  - [Diagrama de estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit)
+  
+- [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit)
+
+## Requerimientos y diseño
+
+- [Las entradas del diseño](https://docs.google.com/document/d/1qPM_sQ0UyGFKRzl13Cbf6zDKj6vxJ4wMZQIXeOrRvM8/edit)
+
+## Modelado de objetos
+
+- [Teoría de objetos: introducción al concepto de interfaz y polimorfismo tipado](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MTA0NzNmNGM1YjJkOWU1Ng)
+
+- [El proceso de diseño: ejercicio "Manejo de proyectos"](https://docs.google.com/document/d/1wZPfanaroN2yaOHJk4UgYpU8cFElxSjGSg_GMb2TmdI/edit) (versión [Java][3])
+
+[3]: https://fdd94259-a-62cb3a1a-s-sites.googlegroups.com/site/utndesign/material/apuntes-teoricos/ProcesoDisegno.pdf?attachauth=ANoY7coUFfBDyHxtJnfn_DtUpShs80tlEKmZUd5BsDwTHEH6T-tjuS7Wt_klS0aNBa7c8SUdaq8W_Pv9i_ADxjxw2vRorJ5vkBiqQF3qSwtyvEWPKqDyihGd1YCRGO3owuHL6oJZZ9hUzgE3Izz9vMD940eSRwGYjLlogGe3N4iYAAmDYaOMt9WFjdhNCqH8dUErazjIwvlHiwL6e0u6oy5N6NgZeXlEs9-QvdnTpnecCAQHgUY6IHvymKdurebbQy5ctmmBhA1a&attredirects=0
+
+- [Biblioteca vs. framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit)
+
+## Herramientas tecnológicas
+
+- [Arrancando con Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ/edit#heading=h.dnwhvummp994)
+
+- [Java para programadores objetosos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6YmI1Mzc1MWFhYjE2MTQ0)
+
+- [Manejo de errores en Java](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjhhYThjNmJhMDkyZTIzNA)
+
+- Manejo de errores: [ejercicio monedero (Xtend)](https://docs.google.com/document/d/1vVW91adl0p-NxGNpe8fqmC_5YmBkrxaLDFKyZ0xZb9Y/edit)
+
+- [Guía de lenguajes - Colecciones](https://docs.google.com/document/d/1-jsgDta3fBCuTynnOMXqeuLcSkDU3geg4wbz8o9q8Kg/edit)
+
+- [Apunte de Maven](https://sites.google.com/site/programacionui/temario/01-intro-UI/maven)
