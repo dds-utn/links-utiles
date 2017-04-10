@@ -22,11 +22,11 @@
 
   - [UP: best practices for software development teams](https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf)
   
-  - [How to fail with the rational unified proccess][2] de Craig Larman, Philippe Kruchten & Kurt Bittner
+  - [How to fail with the rational unified process][2] de Craig Larman, Philippe Kruchten & Kurt Bittner
   
 [2]: http://www.cs.unibo.it/~cianca/wwwpages/ids/letture/RUP.pdf
 
-- **Metodologas ágiles**: Scrum guide de Jeff Sutherland y Ken Schwaber ([Español](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-ES.pdf) - [Inglés](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf))
+- **Metodologías ágiles**: Scrum guide de Jeff Sutherland y Ken Schwaber ([Español](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-ES.pdf) - [Inglés](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf))
 
 - **Refactoring / manejo del cambio:**
 
@@ -38,7 +38,7 @@
   
   - [Refactoring object-oriented frameworks (tesis doctoral de William Opdyke)](http://www.laputan.org/pub/papers/opdyke-thesis.pdf)
 
-  - [Post de Kent Beck sobre "Desgin Space"](https://www.facebook.com/notes/kent-beck/design-space/510856375613898)
+  - [Post de Kent Beck sobre "Design Space"](https://www.facebook.com/notes/kent-beck/design-space/510856375613898)
   
 - [Diseño guiado por el dominio (DDD)](https://docs.google.com/document/d/1z28CBIxGRWkEUCVqxY1Efjt-59fNy1ytZCOEo3Zw8c8/edit)
 
@@ -88,7 +88,7 @@
 
 - [Introducción a los design patterns](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
 
-- **Intercepción de código (decorator)**:[Ejercicio clientes de una tarjeta de crédito](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MzBhOWYzZjIxNTRiMThmYg)
+- **Intercepción de código (decorator)**: [Ejercicio clientes de una tarjeta de crédito](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MzBhOWYzZjIxNTRiMThmYg)
 
 - **Modelar comportamiento (command)**:
 
@@ -120,7 +120,7 @@
 
 - **Diseño de datos en el esquema relacional:**
 
-  - [Introdución al modelo relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit)
+  - [Introducción al modelo relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit)
   
   - [Resolución de un ejercicio utilizando componentes en la base de datos](https://docs.google.com/document/d/1zeagKbYb5w1mGCbTDGT1gRgaQS5keLrnAfFAn8v2dtY/edit)
   
