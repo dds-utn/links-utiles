@@ -26,7 +26,13 @@
   
 [2]: http://www.cs.unibo.it/~cianca/wwwpages/ids/letture/RUP.pdf
 
-- **Metodologías ágiles**: Scrum guide de Jeff Sutherland y Ken Schwaber ([Español](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-ES.pdf) - [Inglés](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf))
+- **Metodologías ágiles**: 
+  
+  - Scrum guide de Jeff Sutherland y Ken Schwaber ([Español](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-ES.pdf) - [Inglés](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-US.pdf))
+  
+  - [Manifiesto ágil](http://agilemanifesto.org/iso/es/manifesto.html)
+  
+  - [Principios del manifiesto ágil](http://agilemanifesto.org/iso/es/principles.html)
 
 - **Refactoring / manejo del cambio:**
 
